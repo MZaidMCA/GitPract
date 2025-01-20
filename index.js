@@ -1,4 +1,4 @@
 console.log("hello world")
 console.log("HELO")
 
-console.log("NEW COMMIT")
+console.log("new comit")
